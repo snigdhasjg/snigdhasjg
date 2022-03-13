@@ -1,4 +1,8 @@
-### Hi there 👋
+### git commit -m "|#73| Joe | Hi there 👋"
+- 🔭 I’m currently working on Java, AWS
+- 🌱 I’m currently learning Kafka
+- 👯 I’m looking to collaborate on Java Open-Source
+- 😄 Pronouns: He/Him
 
 <!--
 **snigdhasjg/snigdhasjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
