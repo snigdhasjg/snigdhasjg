@@ -4,8 +4,6 @@
 - 👯 I’m looking to collaborate on Java Open-Source
 - 😄 Pronouns: He/Him
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
-
 <!--
 **snigdhasjg/snigdhasjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
