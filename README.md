@@ -10,6 +10,6 @@
 [<img align="left" alt="Snigdhajyoti's StackOverflow" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />](https://stackoverflow.com/users/7857701/snigdhajyoti)
 [<img align="left" alt="Snigdhajyoti's Docker Hub" width="22px" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" />](https://hub.docker.com/u/macabrequinox)
 [<img align="left" alt="Snigdhajyoti's PyPI" width="22px" src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg" />](https://pypi.org/user/macabrequinox)
-![Profile View Counter](https://komarev.com/ghpvc/?username=snigdhasjg&color=green)
+![Profile View Counter](https://komarev.com/ghpvc/?username=snigdhasjg&color=green&style=plastic)
 
 ![summary](https://github-readme-stats.vercel.app/api?username=snigdhasjg&show_icons=true)
