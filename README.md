@@ -1,20 +1,15 @@
-### git commit -m "|#73| Joe | Hi there 👋"
+### git commit -m "|#73| Snigdhajyoti | Hi there 👋"
 - 🔭 I’m currently working on Java, AWS
 - 🌱 I’m currently learning Kafka
 - 👯 I’m looking to collaborate on Java Open-Source
 - 😄 Pronouns: He/Him
 
-<!--
-**snigdhasjg/snigdhasjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+[<img align="left" alt="Snigdhajyoti's LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" />](https://www.linkedin.com/in/snigdhajyoti)
+[<img align="left" alt="Snigdhajyoti's Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg"/>](https://twitter.com/AgiIsHere)
+[<img align="left" alt="Snigdhajyoti's StackOverflow" width="22px" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" />](https://stackoverflow.com/users/7857701/snigdhajyoti)
+[<img align="left" alt="Snigdhajyoti's Docker Hub" width="22px" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" />](https://hub.docker.com/u/macabrequinox)
+[<img align="left" alt="Snigdhajyoti's PyPI" width="22px" src="https://www.vectorlogo.zone/logos/pypi/pypi-icon.svg" />](https://pypi.org/user/macabrequinox)
+![Profile View Counter](https://komarev.com/ghpvc/?username=snigdhasjg&color=green)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![summary](https://github-readme-stats.vercel.app/api?username=snigdhasjg&show_icons=true)
